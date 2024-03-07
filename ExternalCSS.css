@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray ; font-family: 'Courier New', Courier, monospace;
+}
+
+h1{color: black;}
+
+ol{border-color: blueviolet;}
+
+h2{color: brown; }
+
+p.abc,h1,img {border-style: dotted; border-width: 5px;
+    border-right-style: solid;border-left-style: solid;
+    margin: 25px 50px 75px 100px;}
+
+
+p.abc{padding: 20px;}
+div {padding: 20px;}
